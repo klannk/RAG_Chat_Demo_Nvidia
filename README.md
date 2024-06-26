@@ -2,7 +2,12 @@
 
 ## Chatbot Notebook
 
+<a target="_blank" href="https://colab.research.google.com/github/klannk/RAG_Chat_Demo_Nvidia/blob/main/GenAI_Hands_On_Tutorial_NVIDIA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This notebook is a demo showcasing the basic document chat capabilities with large language models. It allows you to have conversations with the model and obtain responses based on the provided input.
+
 
 ## Prerequisites
 
@@ -25,9 +30,6 @@ Once you have the prerequisites ready, follow the steps below to set up the note
 
 ## Running the Notebook
 
-<a target="_blank" href="https://colab.research.google.com/github/klannk/RAG_Chat_Demo_Nvidia/blob/main/GenAI_Hands_On_Tutorial_NVIDIA.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
 Once the notebook is set up, you can begin using it by running the code cells to have conversations with the language model. To start a conversation, provide an input and wait for the model to generate a response. You can continue the conversation by providing additional inputs.
 
